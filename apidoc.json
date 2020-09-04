@@ -1,0 +1,16 @@
+{
+    "name": "E-gundelik",
+    "version": "1.0.0",
+    "description": "Egundelik - student management system",
+    "title": "Egundelik - student management system",
+    "url" : "https://api.egundelik.com",
+    "order": [
+        "Auth",
+        "Admin",
+        "Teacher",
+        "Student",
+        "User",
+        "Company",
+        "Notification"
+    ]
+}
